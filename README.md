@@ -6,11 +6,22 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently on something new!
-- 🌱 I’m currently learning Web Development, Cyber Security, Cloud Computing, Networking, etc.. 
-- 👯 I’m looking to collaborate on Team Work. 
-- 🤔 I’m looking for help with my business and Society. 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Recently, I have done my project on website development, click here.👉 <a href="http://nutritiontracker.lovestoblog.com/" target="_blank">Nutrition Tracker</a>
+### Click here to view my verified achievement from 👉<a href="https://www.credly.com/users/aditya-burman.2ea540c4/" target="_blank">IBM Badges</a>
+### Skills
+- Cloud Computing
+- Artificial Intelligence
+- Programming Languages
+- Cybersecurity
+- Troubleshooting
+- Team work
+- Adaptability
+### Hobbies
+- 🏋️‍♀️Exercising
+- 👨‍🍳Cooking
+- 📖Learning
+- 🎧Listening to music
+### Languages 
+- English and Hindi only
+<!--- 
 -->
