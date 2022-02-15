@@ -1,4 +1,4 @@
-### Hi there 👋
+Web Developer with a demonstrated history of working in the information technology and services industry. Skilled in Computer Networking,Cyber Security, Mindfulness, Python (Programming Language), PHP, and Core Java. Strong engineering professional with a IT Networrking & Cloud focused in Web designing, web development services, from NSTI Bhubanswar .
 
 <!--
 **Alauddinmallick/Alauddinmallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
